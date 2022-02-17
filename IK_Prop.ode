@@ -42,7 +42,7 @@ poi' = oi*prop*propa + o*prop*propa - poi*propb - poi*propb
 aux ik = Gkbar*(o+oi)*(v-Ek)/scale
 aux Pro = o+oi
 
-@ meth=Euler, dt=0.03, total=500
+@ meth=Euler, dt=0.025, total=500
 @ yp=ik, yhi=1500, ylo=-100, xlo=0, xhi=500, bound=10000, maxstor=100000
 
 done
