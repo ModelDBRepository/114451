@@ -25,9 +25,9 @@ Initialconds -> Range, then under "Range over", change to 'vtest_1', and then se
 
 The model file was supplied by:
 
-Dr. Sheng-Nan Wu
-National Cheng Kung University Medical College
-Tainan 70101, Taiwan
+Dr. Sheng-Nan Wu  
+National Cheng Kung University Medical College  
+Tainan 70101, Taiwan  
 snwu@mail.ncku.edu.tw
 
 ---
